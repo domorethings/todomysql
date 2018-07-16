@@ -1,0 +1,2 @@
+# todomysql
+mysql todo practice
